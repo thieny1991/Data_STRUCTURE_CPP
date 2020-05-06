@@ -1,0 +1,5 @@
+
+
+remove pos:3
+remove book_author:Peterson Davie
+remove book_id:32423

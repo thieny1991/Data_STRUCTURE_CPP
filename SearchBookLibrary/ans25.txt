@@ -1,0 +1,2 @@
+book_id:22452, book_name:Pikachu Vs Pichu, book_author:Ash Ketchum
+

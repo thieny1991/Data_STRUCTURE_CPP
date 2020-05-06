@@ -1,0 +1,23 @@
+add pos:0 book_id:13456, book_name:Pichu Pikachu Raichu, book_author:James Rocket
+remove book_name:Pikachu Evolves
+
+
+remove pos:55
+add pos:3 book_id:26556, book_name:Pikachu, book_author:Meowth Rocket
+remove book_id:12456
+
+
+
+sort book_id
+remove book_author:Jessie Rocket
+add pos:3 book_id:02356, book_name:Pikachu, book_author:Meowth Rocket
+sort book_name
+
+
+add pos:1 book_id:22452, book_name:Pikachu Refuses to evolve, book_author:Jessie Rocket
+add pos:45 book_id:76536, book_name:Pikachu, book_author:Meowth Rocket
+
+
+sort book_author
+remove pos:5
+remove pos:0

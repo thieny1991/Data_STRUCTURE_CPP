@@ -1,0 +1,7 @@
+
+add pos:0 book_id:12456, book_name:Pikachu Evolves, book_author:James Rocket
+
+
+add pos:6 book_id:12256, book_name:Pikachu Refuses to evolve, book_author:Jessie Rocket
+
+add pos:3 book_id:26556, book_name:Pikachu, book_author:Meowth Rocket

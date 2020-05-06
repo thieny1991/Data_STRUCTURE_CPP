@@ -1,0 +1,13 @@
+remove book_name:Pikachu Vs Data Structures
+
+
+remove book_id:12452
+
+
+remove book_author:Jessie Rocket
+remove book_name:Pichu Got Nothing On Pikachu
+remove book_author:Pikachu
+
+
+remove pos:2
+remove pos:0

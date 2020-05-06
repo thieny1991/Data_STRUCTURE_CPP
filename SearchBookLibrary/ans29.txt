@@ -1,0 +1,9 @@
+book_id:25452, book_name:Sushi vs Pikchu, book_author:Blue Oak
+book_id:43556, book_name:Awesome is Pikachu, book_author:Gary Oak
+book_id:13456, book_name:Pichu Pikachu Raichu, book_author:James Rocket
+book_id:02356, book_name:Pikachu, book_author:Meowth Rocket
+book_id:76536, book_name:Pikachu, book_author:Meowth Rocket
+book_id:12452, book_name:Pikachu Adventures, book_author:Misty Water
+book_id:22346, book_name:Adventures of Pika, book_author:Paul Ash
+book_id:02432, book_name:Pikachu vs Data Structures, book_author:Red
+book_id:32234, book_name:Red's Pikachu is Better, book_author:Red

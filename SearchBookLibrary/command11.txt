@@ -1,0 +1,4 @@
+remove pos:5
+add book_id:12347, book_name:ABC, book_author:Christian
+
+remove pos:0
